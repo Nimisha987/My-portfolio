@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content:right;
+}
+.right align{
+    float: right;
+    height:20px;
+    width:20px;
+}
